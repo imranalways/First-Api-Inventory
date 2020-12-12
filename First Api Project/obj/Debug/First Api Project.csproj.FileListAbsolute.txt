@@ -64,3 +64,69 @@ C:\Users\bangladesh\source\repos\First Api Project\First Api Project\obj\Debug\F
 C:\Users\bangladesh\source\repos\First Api Project\First Api Project\obj\Debug\First Api Project.dll
 C:\Users\bangladesh\source\repos\First Api Project\First Api Project\obj\Debug\First Api Project.pdb
 C:\Users\bangladesh\source\repos\First Api Project\First Api Project\obj\Debug\First Api Project.csprojAssemblyReference.cache
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\First Api Project.dll.config
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\First Api Project.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\First Api Project.pdb
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\csc.exe
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\csc.exe.config
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\csc.rsp
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\csi.exe
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\csi.rsp
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\System.AppContext.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\vbc.exe
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\vbc.exe.config
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\vbc.rsp
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\Antlr3.Runtime.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\EntityFramework.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\EntityFramework.SqlServer.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\Newtonsoft.Json.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Net.Http.Formatting.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Helpers.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Http.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Http.WebHost.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Mvc.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Optimization.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Razor.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.WebPages.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\WebGrease.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\EntityFramework.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\EntityFramework.SqlServer.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\Newtonsoft.Json.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Net.Http.Formatting.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Helpers.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Http.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Http.WebHost.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Mvc.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Optimization.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Razor.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.WebPages.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\Antlr3.Runtime.pdb
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\obj\Debug\First Api Project.csprojAssemblyReference.cache
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\obj\Debug\First Api Project.csproj.CoreCompileInputs.cache
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\obj\Debug\First Api Project.csproj.CopyComplete
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\obj\Debug\First Api Project.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\obj\Debug\First Api Project.pdb
