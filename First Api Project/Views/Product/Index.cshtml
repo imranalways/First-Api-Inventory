@@ -1,0 +1,85 @@
+﻿@model IEnumerable<First_Api_Project.Models.Product>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Scripts/bootbox.js"></script>
+    <title>Index</title>
+</head>
+<body>
+    <div style="margin-top:100px;">
+        @if (!Model.Any())
+        {
+            <p>Sorry, no Categories are available at this moment</p>
+        }
+        else
+        {<table id="product" class="table table-bordered table-hover">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ProductName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Price)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.CategoryId)
+                    </th>
+                    <th colspan="3"></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Price)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CategoryId)
+                        </td>
+                        <td>
+                            <button class="btn-link">Edit</button>
+                        </td>
+                        <td>
+                            <button class="btn-link">Details</button>
+                        </td>
+                        <td>
+                            <button data-category-id="@item.ProductId" class="btn-link js-delete">Delete</button>
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        }
+        </div>
+</body>
+</html>
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            $("#product").on("click",".js-delete", function () {
+                var button = $(this);
+
+                bootbox.confirm("Are you sure you want to delete this Product?", function (result) {
+                    if (result) {
+                        $.ajax({
+                            url: "/api/Products/" + button.attr("data-category-id"),
+                            method: "DELETE",
+                            success: function () {
+                                button.parents("tr").remove();
+                            }
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+}
