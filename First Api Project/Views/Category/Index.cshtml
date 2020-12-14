@@ -38,7 +38,7 @@
                             <button class="btn-link">Edit</button>
                         </td>
                         <td>
-                            <button class="btn-link">Details</button>
+                            <button data-category-id="@item.CategoryId" data-category-name="@item.CategoryName" class="btn-link js-details">Details</button>
                         </td>
                         <td>
                             <button data-category-id="@item.CategoryId" class="btn-link js-delete">Delete</button>
@@ -55,6 +55,7 @@
 {
     <script>
         $(document).ready(function () {
+
             $("#category").on("click",".js-delete", function () {
                 var button = $(this);
 

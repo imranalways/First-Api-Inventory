@@ -27,7 +27,7 @@
                         @Html.DisplayNameFor(model => model.Price)
                     </th>
                     <th>
-                        @Html.DisplayNameFor(model => model.CategoryId)
+                        Category Name
                     </th>
                     <th colspan="3"></th>
                 </tr>
@@ -42,7 +42,7 @@
                             @Html.DisplayFor(modelItem => item.Price)
                         </td>
                         <td>
-                            @Html.DisplayFor(modelItem => item.CategoryId)
+                            @Html.DisplayFor(modelItem => item.Category.CategoryName)
                         </td>
                         <td>
                             <button class="btn-link">Edit</button>
@@ -65,9 +65,9 @@
 {
     <script>
         $(document).ready(function () {
+           
             $("#product").on("click",".js-delete", function () {
                 var button = $(this);
-
                 bootbox.confirm("Are you sure you want to delete this Product?", function (result) {
                     if (result) {
                         $.ajax({
