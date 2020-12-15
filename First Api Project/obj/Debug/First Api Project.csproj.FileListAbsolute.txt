@@ -130,3 +130,6 @@ C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-
 C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\obj\Debug\First Api Project.csproj.CopyComplete
 C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\obj\Debug\First Api Project.dll
 C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\obj\Debug\First Api Project.pdb
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Cors.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Http.Cors.dll
+C:\Users\bangladesh\Downloads\0_0_Study matarial\Fall .Net\New folder\First-Api-Inventory\First Api Project\bin\System.Web.Http.Cors.xml

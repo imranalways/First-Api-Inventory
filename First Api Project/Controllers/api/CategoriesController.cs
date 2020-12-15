@@ -15,7 +15,7 @@ namespace First_Api_Project.Controllers.api
     {
         CategoryRepository catrepo = new CategoryRepository();
 
-        [Route(""), BasicAuthentication]
+        [Route("")/*, BasicAuthentication*/]
         public IHttpActionResult Get()
         {
             return Ok(catrepo.GetAll());
